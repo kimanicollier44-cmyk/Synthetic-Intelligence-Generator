@@ -26,3 +26,4 @@ def run_workflow(steps: List[str] | None = None) -> List[Dict[str, Any]]:
 if __name__ == "__main__":
     workflow_output = run_workflow()
     print(workflow_output)
+
