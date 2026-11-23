@@ -23,8 +23,6 @@ Multi-agent routing · multi-provider LLMs · memory & RAG · governance · CI/C
 
 ---
 
-## 📛 Project Name
-
 **Synthetic-Intelligence-Generator** (SIG)
 
 ---
